@@ -1,2 +1,2 @@
 # RAM
-This repository has single and dual port RAM's
+This repository has single and dual-port RAMs
